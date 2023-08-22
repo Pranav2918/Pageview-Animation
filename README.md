@@ -15,4 +15,4 @@ Make sure you have Flutter installed on your machine. If not, you can follow the
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/pageview-animation-flutter.git
+git clone https://github.com/Pranav2918/Pageview-Animation.git
